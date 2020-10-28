@@ -1,0 +1,5 @@
+https://github.com/sukilau/image-recognition-paintings
+
+https://github.com/anjanatiha/Artist-Prediction-from-Artworks
+
+https://github.com/nitroventures/tensorflow-art
